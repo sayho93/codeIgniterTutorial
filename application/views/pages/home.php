@@ -20,9 +20,6 @@
     <a href="#" class="prev"><img src="image/ic_main_prev.png" alt="prev" /></a>
     <a href="#" class="next"><img src="image/ic_main_next.png" alt="next" /></a>
     <div class="area" id="mynetwork">
-        <!--        <div class="jLoader" style="text-align:center;position: absolute;  display: inline-block;  width: 100%;  height: 100%;  padding: 1em;">-->
-        <!--            <table width="100%" height="100%"><tr><td style="text-align:center;vertical-align: middle;"><img src="image/load.gif" width="150px" height="150px" /></td></tr></table>-->
-        <!--        </div>-->
     </div>
 </div>
 
