@@ -22,6 +22,5 @@
             $this->load->view('templates/footer', $data);
         }
 
-
     }
 ?>
